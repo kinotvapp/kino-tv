@@ -1,0 +1,36 @@
+SPDX-License-Identifier: GPL-3.0-or-later
+
+Kino TV
+Copyright (C) 2026 the Kino TV authors
+
+Kino TV (the Android and Android TV app, and the desktop apps for Windows, macOS and Linux) is free
+software: you can redistribute it and/or modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation, either version 3 of the License, or (at your option)
+any later version. See the LICENSE file for the full text.
+
+Corresponding source (written offer)
+
+The complete corresponding source code of a version of Kino TV is available on request. Write to:
+
+    contact@kinoplayer.com
+
+For at least three years from the date you received a copy (and for as long as the publisher offers
+that version or support for it), anyone who received it may ask the publisher at that address for
+that source code, and the publisher will send it on a durable medium or as a download link, for no
+more than the cost of physically performing the distribution.
+
+Additional permission under GNU GPL version 3 section 7 (Android app only)
+
+If you modify the Android app, or any covered work, by linking or combining it with the Google Play
+services SDK (com.google.android.gms) and the Android media3 Cast module, the licensors of this
+Program grant you additional permission to convey the resulting work. Corresponding Source for such
+a combination shall not include the source code of those proprietary Google libraries, which are
+System-Library-like components supplied by Google Play services on the device. This permission is
+for the Cast integration only.
+
+Exceptions
+
+- The plugin protocol contracts (the Kino and CloudStream bridge protocol and the external source
+  resolver protocol) stay licensed under the Apache License, Version 2.0, so that third parties can
+  implement them.
+- Third-party components included in or shipped with Kino TV keep their own licences.
